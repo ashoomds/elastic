@@ -27,3 +27,13 @@ docker logs webapp
 
 what does docker link do and it's explaination --> 
 https://docs.docker.com/network/links/#communication-across-links
+
+
+##LOADING DATA IN ELASTIC
+https://www.elastic.co/guide/en/kibana/current/tutorial-load-dataset.html
+https://www.elastic.co/guide/en/kibana/current/tutorial-discovering.html
+https://www.elastic.co/guide/en/kibana/current/tutorial-visualizing.html
+https://www.elastic.co/guide/en/kibana/current/_pie_chart.html
+https://www.elastic.co/guide/en/kibana/current/_bar_chart.html
+https://www.elastic.co/guide/en/kibana/current/_coordinate_map.html
+https://www.elastic.co/guide/en/kibana/current/_markdown.html
